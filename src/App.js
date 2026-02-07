@@ -87,9 +87,12 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: kimoboyboy@gmail.com"> kimoboyboy@gmail.com</a><br />
+            <a href="mailto: dailynewsexpress.22@gmail.com"> dailynewsexpress.22@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠 Skander Ben Salah city essada skhira sfax - 3050 Tunisia (TN)
+              🏠 B-16, Narnarayan Society
+                Near IOC Petrol Pump Chenpur
+                Ahmedabad - 382470
+                India (IN)
             </span>
           </p>
         </div>
