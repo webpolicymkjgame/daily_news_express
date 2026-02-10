@@ -4,7 +4,6 @@ import './App.css';
 
 import logoImg from './assets/logo.png';
 import imgMkj from './assets/banner.png';
-import googlePlayIcon from './assets/google-play.png';
 
 
 import bannerApp from './assets/app/bannerApp.png';
