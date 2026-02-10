@@ -71,10 +71,7 @@ function HomePage() {
                 <img src={game.image} alt={game.name} />
                 <div className="game-info">
                   <h3>{game.name}</h3>
-                  <a href={game.link} target="_blank" rel="noopener noreferrer" className="btn btn-google-play">
-                    <img src={googlePlayIcon} alt="Google Play" className="google-play-icon" />
-                    Get on Google Play
-                  </a>
+
                 </div>
               </div>
             ))}
